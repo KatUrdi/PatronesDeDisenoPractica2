@@ -1,4 +1,4 @@
-package patronesdisenosegundoparcial.ejercicio4Mediator;
+package patronesdedisenosegundoparcial.ejercicio4Mediator;
 
 public class Client {
     public static void main(String[] args) {
